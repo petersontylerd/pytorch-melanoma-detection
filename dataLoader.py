@@ -23,7 +23,7 @@ def process_label_df(file):
 
     return df
 
-def imageSort(destination_root, image_root, label_df, sort_type="binary"):
+def image_sort(destination_root, image_root, label_df, sort_type="binary"):
     """
     Description
     -------------
